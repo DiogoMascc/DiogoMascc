@@ -6,7 +6,6 @@ Olá, sou Diogo Mascarenhas entusiasta tecnologia e ciência.
 
 - 📓 Acadêmico de Sistemas de Informação pelo Instituto Federal da Bahia.
 - 👨‍💻 Estudante de Desenvolvimento Web.
-- 👨‍🔬 Entusiasta de Ciencia de Dados.
 - 📍 Feira de Santana - Bahia 
 
 > Contato:
